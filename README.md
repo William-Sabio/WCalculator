@@ -3,7 +3,7 @@
 > Ela é interessante caso queria aprender sobre operadores matemáticos de C++. Dentro do código se usou muito questões de if-else, escolha, verificação de valores (inteiros) e blocos de funções.
 > Esse código é puramente livre para ser usado da forma que quiser, principalmente pra estudar e fins educacionais, além de fins práticos e úteis, como produção de código.
 
-![A interface CLI hípermega simples.](/images/screenshot_main.png)
+![](/images/screenshot_main.png)
 _(Print da modesta e simples interface CLI do aplicativo.)_
 
 # WCalculator - Requisitos
@@ -19,8 +19,6 @@ Você vai precisar dos seguintes pacotes:
 > `git clone https://github.com/William-Sabio/WCalculator`  
 > **2º) Acesse a pasta.**  
 > `cd WCalculator`  
-> **3º) Por último, apenas compile usando o Makefile.  
+> **3º) Por último, apenas compile usando o Makefile.**  
 > `make build`  
-No final, voilà!! O seu executável estará lá dentro da pasta **./bin**.  
-
-_[Nota de 09/06/24, escrito no horário 19:22]_
+No final, voilà!! O seu executável estará lá dentro da pasta **./bin**.
