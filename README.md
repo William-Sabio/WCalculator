@@ -7,11 +7,11 @@
 _(Print da modesta e simples interface CLI do aplicativo.)_
 
 # WCalculator - Requisitos
-**_(Vou deixar bem claro que até agora só fiz a versão para UNIX, ou seja, tentar compilar para '.exe'/DOS pode causar erros inesperados. Principalmente, envolvendo compatibilidade com shell.)_**  
-Você vai precisar dos seguintes pacotes:  
-`make`  
-`g++`  
-`git`  
+> **_(Vou deixar bem claro que até agora só fiz a versão para UNIX, ou seja, tentar compilar para '.exe'/DOS pode causar erros inesperados. Principalmente, envolvendo compatibilidade com shell.)_**  
+> Você vai precisar dos seguintes pacotes:  
+> `make`  
+> `g++`  
+> `git`  
 
 # WCalculator - Compilação
 > Siga os seguintes passos:  
