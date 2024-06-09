@@ -3,6 +3,8 @@
 > Ela é interessante caso queria aprender sobre operadores matemáticos de C++. Dentro do código se usou muito questões de if-else, escolha, verificação de valores (inteiros) e blocos de funções.
 > Esse código é puramente livre para ser usado da forma que quiser, principalmente pra estudar e fins educacionais, além de fins práticos e úteis, como produção de código.
 
+![A interface CLI hípermega simples.](/images/screenshot_main.png)
+
 # WCalculator - Requisitos
 **_(Vou deixar bem claro que até agora só fiz a versão para UNIX, ou seja, tentar compilar para '.exe'/DOS pode causar erros inesperados.)_**  
 Você vai precisar dos seguintes pacotes:  
