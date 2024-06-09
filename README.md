@@ -5,6 +5,6 @@
 > Esse código é puramente livre para ser usado da forma que quiser, principalmente pra estudar e fins educacionais, além de fins práticos e úteis, como produção de código.
 
 # WCalculator - Requisitos
-> **_(Vou deixar bem claro que até agora só fiz a versão para UNIX, ou seja, tentar compilar para '.exe'/DOS pode causar erros inesperados.)_** 
-> Você vai precisar dos seguintes pacotes:
+**_(Vou deixar bem claro que até agora só fiz a versão para UNIX, ou seja, tentar compilar para '.exe'/DOS pode causar erros inesperados.)_** 
+Você vai precisar dos seguintes pacotes:
 `Make`
