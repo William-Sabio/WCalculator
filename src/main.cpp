@@ -16,7 +16,7 @@ float porcentagem(float a,float b){
 	return (a/100)*b;
 }
 int main(){
-	int a;int b;
+	int x;
 	float pri_num;float seg_num;
 	system("clear");
 	cout << "WCalculator" << endl;
@@ -28,13 +28,13 @@ int main(){
 	cout << "[5] Porcentagem" << endl;
 	cout << "[0] Sair" << endl;
 	cout << "Opção: ";
-	cin >> a;
-	if(a==0){
+	cin >> x;
+	if(x==0){
 		system("clear");
 		return 0;
 	}
 	system("clear");
-	if(a==5){
+	if(x==5){
 		cout << "Quantos porcento? ";
 		cin >> pri_num;
 		cout << pri_num << "% " << "de...? ";
@@ -46,22 +46,22 @@ int main(){
 		cin >> seg_num;
 	}
 	system("clear");
-	if(a==1){
+	if(x==1){
 		system("clear");
 		cout << "X: " << pri_num << endl;
 		cout << "Y: " << seg_num << endl;
 		cout << "Resultado da soma é: " << somar(pri_num,seg_num) << endl;
-	}else if(a==2){
+	}else if(x==2){
 		system("clear");
 		cout << "X: " << pri_num << endl;
 		cout << "Y: " << seg_num << endl;
 		cout << "Resultado da subtração: " << subtrair(pri_num,seg_num) << endl;
-	}else if(a==3){
+	}else if(x==3){
 		system("clear");
 		cout << "X: " << pri_num << endl;
 		cout << "Y: " << seg_num << endl;
 		cout << "Resultado da multiplicação: " << multiplicar(pri_num,seg_num) << endl;
-	}else if(a==4){
+	}else if(x==4){
 		system("clear");
 		if(seg_num==0){
 			system("clear");
@@ -71,7 +71,7 @@ int main(){
 		cout << "X: " << pri_num << endl;
 		cout << "Y: " << seg_num << endl;
 		cout << "Resultado da divisão: " << dividir(pri_num,seg_num) << endl;
-	}else if(a==5){
+	}else if(x==5){
 		system("clear");
 		cout << pri_num << "% " << "de " << seg_num << endl;
 		cout << "Resultado da porcentagem é: " << porcentagem(pri_num,seg_num) << endl;
