@@ -14,6 +14,7 @@ _(Print da modesta e simples interface CLI do aplicativo.)_
 > `git`  
 
 # WCalculator - Compilação
+![](/images/screenshot_tree.png)
 > Siga os seguintes passos:  
 > **1º) Copie o repositório para seu dispositivo local.**  
 > `git clone https://github.com/William-Sabio/WCalculator`  
