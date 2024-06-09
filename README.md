@@ -7,11 +7,20 @@
 _(Print da modesta e simples interface CLI do aplicativo.)_
 
 # WCalculator - Requisitos
-**_(Vou deixar bem claro que até agora só fiz a versão para UNIX, ou seja, tentar compilar para '.exe'/DOS pode causar erros inesperados.)_**  
+**_(Vou deixar bem claro que até agora só fiz a versão para UNIX, ou seja, tentar compilar para '.exe'/DOS pode causar erros inesperados. Principalmente, envolvendo compatibilidade com shell.)_**  
 Você vai precisar dos seguintes pacotes:  
-`Make`  
-`g++`
+`make`  
+`g++`  
+`git`  
 
 # WCalculator - Compilação
-> Você só precisa dar um `git clone https://github.com/William-Sabio/WCalculator` e entrar na pasta com `cd WCalculator` e executar `make build`, no final, voilà!! O seu executável estará lá dentro da pasta **./bin**.
-[Nota de 09/06/24, escrito no horário 18:41]
+> Siga os seguintes passos:  
+> **1º) Copie o repositório para seu dispositivo local.**  
+> `git clone https://github.com/William-Sabio/WCalculator`  
+> **2º) Acesse a pasta.**  
+> `cd WCalculator`  
+> **3º) Por último, apenas compile usando o Makefile.  
+> `make build`  
+No final, voilà!! O seu executável estará lá dentro da pasta **./bin**.  
+
+_[Nota de 09/06/24, escrito no horário 19:22]_
