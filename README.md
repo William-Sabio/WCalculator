@@ -7,4 +7,4 @@
 # WCalculator - Requisitos
 > **_(Vou deixar bem claro que até agora só fiz a versão para UNIX, ou seja, tentar compilar para '.exe'/DOS pode causar erros inesperados.)_** 
 > Você vai precisar dos seguintes pacotes.
-> ´Make.´
+> `Make`
